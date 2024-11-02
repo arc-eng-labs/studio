@@ -4,11 +4,9 @@
 ![Django](https://img.shields.io/badge/Django-3.2%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Arcane Studio is a collection of productivity-boosting tools built on top of the [Arcane Engine](https://arcane.engineer/engine). 
-The engine takes natural language instructions (Tasks) and executes them on the users' behalf using its capabilities, 
-which include reading, writing, and editing code and interacting with issues, tickets, wikis, etc via integrations.
+Arcane Studio is a collection of productivity-boosting tools built on top of the [Arcane Engine](https://arcane.engineer/engine). The engine takes natural language instructions (Tasks) and executes them on the users' behalf using its capabilities, which include reading, writing, and editing code and interacting with issues, tickets, wikis, etc., via integrations.
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 - **Backend**: Python and Django
 - **Frontend**: Django templates, BulmaCSS, and jQuery
 
